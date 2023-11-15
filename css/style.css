@@ -47,6 +47,21 @@ body{
     margin-bottom: 20px;
 }
 
+
+button{
+    background-color: rgb(77, 54, 12);
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+button:hover{
+    background-color: rgb(163, 113, 18);
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+
 .button a{
     text-decoration: none;
     font-size: 1rem;
